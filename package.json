@@ -1,0 +1,19 @@
+{
+  "name": "010_sendsms",
+  "version": "1.0.0",
+  "description": "Sending SMS R & D",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rashmith Tula",
+  "license": "ISC",
+  "dependencies": {
+    "clockwork": "^0.1.4",
+    "express": "^4.16.2",
+    "msg91": "0.0.6",
+    "request": "^2.83.0",
+    "textbelt": "0.0.3",
+    "twilio": "^3.11.0"
+  }
+}
